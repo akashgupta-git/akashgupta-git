@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akashgupta-git
+- 👋 Hi, I’m Akash !!
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on project using MERN
