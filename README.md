@@ -40,25 +40,6 @@ I’m a **Full-Stack Developer** and **C++ Programmer** pursuing B.Tech in Compu
 
 ---
 
-### 🚀 Noteworthy Projects
-
-#### 🎟️ [MarkMySeat](https://github.com/akashgupta-git/markmyseat)
-A real-time ticket booking platform with secure login, Razorpay payment integration, and scalable seat management.
-
-> 🛠 Tech: React, Node.js, MongoDB, Express.js, JWT, Razorpay
-
-#### 🧑‍🎓 [ADTConnect](https://adt-connect.vercel.app)
-A student communication and attendance platform built for educational institutions.
-
-> 🛠 Tech: Next.js, TypeScript, Tailwind, Clerk, Stream SDK
-
-#### 🚗 EntryGuard
-Vehicle detection system using Raspberry Pi and YOLOv5. Reduced false detections by 30%.
-
-> 🛠 Tech: Python, OpenCV, cvzone, Raspberry Pi
-
----
-
 ### 🏆 Achievements
 
 - 👨‍🏫 **Technical Lead**, MIT Swift Coding Club
