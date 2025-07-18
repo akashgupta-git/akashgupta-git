@@ -51,7 +51,6 @@ I’m a **Full-Stack Developer** and **C++ Programmer** pursuing B.Tech in Compu
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashgupta-git&show_icons=true&theme=github_dark" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashgupta-git&layout=compact&theme=github_dark" height="160" />
 </p>
 
