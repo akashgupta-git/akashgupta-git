@@ -48,14 +48,6 @@ I’m a **Full-Stack Developer** and **C++ Programmer** pursuing B.Tech in Compu
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashgupta-git&layout=compact&theme=github_dark" height="160" />
-</p>
-
----
-
 ### 🤝 Let's Connect!
 
 📧 akashgupta.20044@gmail.com  
