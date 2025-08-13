@@ -9,12 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-I’m a **Full-Stack Developer** and **C++ Programmer** pursuing B.Tech in Computer Science at **MIT ADT University**, Pune. I love crafting scalable and user-centric applications, solving problems through code, and leading teams to deliver impact.
-
-- 🔭 Currently working on: `MarkMySeat` – a scalable ticket booking system.
-- 🌱 Learning: DevOps, AWS, and contributing to Open Source.
-- 🧠 Strong in: MERN stack, React optimization, and system design.
-- ⚡ Fun Fact: I often turn bugs into features. 😉
+Cloud-oriented Computer Science undergraduate with hands-on experience in designing and deploying scalable, secure solutions on AWS. Skilled with EC2, S3, IAM, VPC, CloudFormation, and infrastructure-as-code, with experience in Docker containerization and CI/CD automation using Jenkins. Experienced in full-stack development using the MERN stack (MongoDB, Express.js, React.js, Node.js) and Java-based applications, building end-to-end solutions with optimized performance and secure DevOps practices. Passionate about clean code, cloud-native architectures, and continuous learning.
 
 ---
 
