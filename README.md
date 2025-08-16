@@ -9,7 +9,11 @@
 ---
 
 ### 👨‍💻 About Me
-Cloud-oriented Computer Science undergraduate with hands-on experience in designing and deploying scalable, secure solutions on AWS. Skilled with EC2, S3, IAM, VPC, CloudFormation, and infrastructure-as-code, with experience in Docker containerization and CI/CD automation using Jenkins. Experienced in full-stack development using the MERN stack (MongoDB, Express.js, React.js, Node.js) and Java-based applications, building end-to-end solutions with optimized performance and secure DevOps practices. Passionate about clean code, cloud-native architectures, and continuous learning.
+Computer Science undergraduate with hands-on experience in Java, Spring Boot, REST APIs, and cloud-based application
+development. Experienced in designing backend systems, integrating databases, and deploying applications on AWS using CI/CD
+automation. Familiar with Agile practices, collaborative development, and version control. Additionally, built full-stack applications
+using the MERN stack, gaining practical exposure to frontend and UI integration. Enthusiastic learner with strong problem-solving
+skills and a passion for modern software development practices.
 
 ---
 
