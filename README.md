@@ -9,11 +9,11 @@
 ---
 
 ### 👨‍💻 About Me
-Computer Science undergraduate with hands-on experience in Java, Spring Boot, REST APIs, and cloud-based application
-development. Experienced in designing backend systems, integrating databases, and deploying applications on AWS using CI/CD
-automation. Familiar with Agile practices, collaborative development, and version control. Additionally, built full-stack applications
-using the MERN stack, gaining practical exposure to frontend and UI integration. Enthusiastic learner with strong problem-solving
-skills and a passion for modern software development practices.
+Full-stack developer with expertise in MERN (MongoDB, Express, React, Node.js) and Java-based enterprise development
+(Spring Boot, JPA), building scalable, user-focused web applications with practical experience on AWS. Developed projects
+including a real-time ticket booking system and a student management platform, familiar with Git for version control and
+smooth team collaboration. Served as Technical Lead, guiding teams to hackathon wins and mentoring peers. Skilled in
+deploying cloud-based applications and optimizing systems for performance, scalability, and reliability.
 
 ---
 
