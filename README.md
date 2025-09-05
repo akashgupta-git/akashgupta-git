@@ -16,7 +16,7 @@ I’ve built hands-on projects including:
 - 🕵️ **VulnScanner** — an automated vulnerability scanning and reporting tool.  
 - 🎟️ **MarkMySeat** — a secure ticket booking platform with JWT authentication and cloud deployment.  
 
-Currently pursuing a **B.Tech in Computer Science** (CGPA: 9.13/10) and recognized as **Technical Lead of MIT Swift Coding Club**, where I mentor peers in security and development.  
+Currently pursuing **B.Tech in Computer Science and Engineering** (CGPA: 9.13/10) and served as **Technical Lead of MIT Swift Coding Club**.  
 
 ---
 
@@ -35,7 +35,7 @@ Currently pursuing a **B.Tech in Computer Science** (CGPA: 9.13/10) and recogniz
 
 ### 🏆 Achievements  
 - 👨‍🏫 **Technical Lead**, MIT Swift Coding Club — Mentored 15+ students in security and development.  
-- 🥇 **Hackathon Finalist** — Shortlisted in SIH Internal Hackathon for *KisanConnect*.  
+- 🥇 **Hackathon** — Shortlisted in SIH Internal Hackathon for *KisanConnect*.  
 - 📱 **Google Virtual Internship** — Android Developer Intern.  
 
 ---
