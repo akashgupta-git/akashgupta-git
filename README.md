@@ -23,27 +23,13 @@ Currently pursuing a **B.Tech in Computer Science** (CGPA: 9.13/10) and recogniz
 ### 🛠️ Tech Stack  
 
 #### 🔐 Cybersecurity & Tools  
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk)  
-![Burp Suite](https://img.shields.io/badge/-BurpSuite-FF6F00?style=flat&logo=burpsuite)  
-![Nmap](https://img.shields.io/badge/-Nmap-00457C?style=flat)  
-![Nessus](https://img.shields.io/badge/-Nessus-00BFFF?style=flat)  
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark)  
-![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme)  
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk) ![Burp Suite](https://img.shields.io/badge/-BurpSuite-FF6F00?style=flat&logo=burpsuite) ![Nmap](https://img.shields.io/badge/-Nmap-00457C?style=flat) ![Nessus](https://img.shields.io/badge/-Nessus-00BFFF?style=flat) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark) ![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme)  
 
 #### 💻 Programming & Development  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
 
 #### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)  
-![GuardDuty](https://img.shields.io/badge/-GuardDuty-FF9900?style=flat&logo=amazonaws)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws) ![GuardDuty](https://img.shields.io/badge/-GuardDuty-FF9900?style=flat&logo=amazonaws) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 
 ---
 
